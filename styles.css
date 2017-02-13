@@ -1,0 +1,22 @@
+
+/* add your CSS here */
+.Animal-Profile{
+
+  border-style:solid;
+  border-radius: 2px;
+}
+
+.Animal-info{
+
+  border-style:solid;
+  border-radius: 1px;
+}
+.animal-fact{
+  font-style: italic;
+}
+
+.interesting-fact{
+  font-weight: bold;
+  list-style-type: none;
+
+}
